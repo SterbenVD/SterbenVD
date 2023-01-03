@@ -1,7 +1,6 @@
-# Hi, I'm Vishal! 
+**Hi, I'm Vishal!**
 
-## [Programmer](https://github.com/SterbenVD)
-## [Student at IIT Hyderabad](https://www.linkedin.com/in/vishal-devadiga-3667a7224/)
+I am a [Programmer](https://github.com/SterbenVD) and a [Student at IIT Hyderabad](https://www.linkedin.com/in/vishal-devadiga-3667a7224/)
 
 Connect with me at:
 
