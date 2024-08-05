@@ -3,7 +3,7 @@
 ## Who exactly am I?
 I am a 
 - [Programmer](https://github.com/SterbenVD?tab=repositories) 
-- [3rd Year Undergraduate CSE Student at IIT Hyderabad](https://www.linkedin.com/in/vishal-devadiga-3667a7224/)
+- [4th Year Undergraduate CSE Student at IIT Hyderabad](https://www.linkedin.com/in/vishal-devadiga-3667a7224/)
 <!-- 
 ## Tech I use
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
